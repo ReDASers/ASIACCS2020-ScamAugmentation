@@ -1,0 +1,23 @@
+Group A:
+    No sender/receiver
+    
+Group B:
+    NLG
+    
+Group C:
+    Sender/Receiver
+    
+Group D:
+    Human
+    
+Group E:
+    Receiver
+    
+Group F:
+    Gmail
+    
+Group G:
+    Sender
+    
+Group H:
+    LinkedIn
